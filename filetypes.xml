@@ -1,14 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="SDL" type="PLAIN_TEXT" />
       <mapping pattern="cgui2" type="PLAIN_TEXT" />
-      <mapping pattern="cgui" type="PLAIN_TEXT" />
-      <mapping pattern="main" type="PLAIN_TEXT" />
-      <mapping pattern="fluid_coding_style" type="PLAIN_TEXT" />
-      <mapping pattern="doxygen" type="PLAIN_TEXT" />
       <mapping pattern="mattsgui" type="PLAIN_TEXT" />
+      <mapping pattern="doxygen" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern="cgui" type="PLAIN_TEXT" />
       <mapping pattern="COPYING" type="PLAIN_TEXT" />
+      <mapping pattern="fluid_coding_style" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
+      <removed_mapping ext="lib" type="UNKNOWN" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
+      <mapping ext="lib" type="XML" />
     </extensionMap>
   </component>
 </application>
